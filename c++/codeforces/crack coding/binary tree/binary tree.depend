@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1442896825 source:c:\users\salman\documents\c++\codeforces\crack coding\binary tree\main.cpp
+	<iostream>
+	<cstddef>
+	<stdlib.h>
+

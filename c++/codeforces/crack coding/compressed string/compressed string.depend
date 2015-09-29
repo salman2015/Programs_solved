@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1441969364 source:c:\users\salman\documents\c++\codeforces\crack coding\compressed string\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1443359906 source:c:\users\salman\documents\c++\codeforces\crack coding\mst graph(find,union and path compression)\main.cpp
+	<iostream>
+	<queue>
+
